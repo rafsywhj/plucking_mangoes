@@ -1,6 +1,6 @@
 class Person {
 	constructor(x, y) {
-		this.image = loadImage('Images/boy.png');
+		this.image = loadImage('boy.png');
 		this.x = x;
 		this.y = y;
 	}

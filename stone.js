@@ -3,7 +3,7 @@ class Stone {
 		this.x = x;
 		this.y = y;
 		this.radius = radius;
-		this.image = loadImage('Images/stone.png');
+		this.image = loadImage('stone.png');
 		var options = {
 			isStatic: false,
 			restitution: 0.5,

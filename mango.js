@@ -4,7 +4,7 @@ class Mango {
 		this.y = y;
 		this.width = width;
 		this.height = height;
-		this.image = loadImage('Images/mango.png');
+		this.image = loadImage('mango.png');
 		var options = {
 			isStatic: true,
 			restitution: 0.2,
